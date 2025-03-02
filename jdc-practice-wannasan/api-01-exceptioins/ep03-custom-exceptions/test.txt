@@ -1,5 +1,0 @@
-Hello Java
-Spring Framework
-Angular
-Docker
-Cloud
